@@ -7,4 +7,4 @@ A sample implementation demo of custom snack bar with overlays
 
 See the medium adticle for detail
 
-- [Medium Article](https://docs.flutter.dev/get-started/codelab)
+- [Medium Article](https://ashwinshres.medium.com/story-of-a-custom-snackbar-1521e52ed9fd)
